@@ -71,6 +71,4 @@ https://github.com/darialozovska/harmoniq-app-team-project
 
 ## 📷 Preview
 
-## 📷 Preview
-
 ![Harmoniq Preview](./src/assets/images/project-img.png)
